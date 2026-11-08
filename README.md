@@ -1,6 +1,6 @@
 ## Hi, I'm Melody
 
-I study Business Analytics at the National University of Singapore, specialising in machine learning, with a minor in Statistics. Right now I'm a data analyst intern at KPMG Singapore, working on an enterprise data migration in Microsoft Fabric.
+I study Business Analytics at the National University of Singapore, specialising in machine learning, with a minor in Statistics. Right now I'm a data analyst intern, working on an enterprise data migration in Microsoft Fabric.
 
 I spent the past year in Stockholm on the NUS Overseas Colleges programme, studying at KTH and interning at two medtech startups. Most of what I built there was internal tooling: a document automation pipeline that cut manual processing by about 75%, Power BI dashboards for audit tracking, and a Streamlit app that scores and summarises new biomedical research so the team didn't have to read everything by hand.
 
@@ -31,7 +31,7 @@ A no-code tool that turns a CFO's approval rules into configurable workflows, wi
 
 ### Currently
 
-- Working with medallion architectures and Spark notebooks at KPMG
+- Working with medallion architectures and database management
 - Learning more about retrieval evaluation and how to measure search quality properly
 - Open to graduate roles in data science, analytics engineering or ML for 2027
 
